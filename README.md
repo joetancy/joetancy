@@ -1,4 +1,4 @@
-# 👋 Joe Tan 
+# 👋 Hello! I'm Joe! 
 [![Twitter Badge](https://img.shields.io/badge/-@JoeTanCY-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/joetancy)](https://twitter.com/joetancy) 
 [![Facebook Badge](https://img.shields.io/badge/-Joe%20Tan-4267B2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/JoeTanCY/)](https://www.facebook.com/JoeTanCY/) 
 [![Instagram Badge](https://img.shields.io/badge/-@JoeTanCY-405DE6?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joetancy/?hl=en)](https://www.instagram.com/joetancy/?hl=en)
