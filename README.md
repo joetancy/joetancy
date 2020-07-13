@@ -5,4 +5,5 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Joe%20Tan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joetancy/)](https://www.linkedin.com/in/joetancy/) 
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=joetancy&show_icons=true)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/joetancy/joetancy?style=flat-square)
