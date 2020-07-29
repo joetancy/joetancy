@@ -1,13 +1,18 @@
-# 👋 Hello! I'm Joe! 
+<h1 align="center">Hi 👋, I'm Joe Tan</h1>
+<h3 align="center">I build applications and fix bugs. I learn photography in my free time.</h3>
 
-### Follow me here!
-[![Twitter Badge](https://img.shields.io/badge/-@JoeTanCY-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/joetancy)](https://twitter.com/joetancy) 
-[![Facebook Badge](https://img.shields.io/badge/-Joe%20Tan-4267B2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/JoeTanCY/)](https://www.facebook.com/JoeTanCY/) 
-[![Instagram Badge](https://img.shields.io/badge/-@JoeTanCY-405DE6?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joetancy/?hl=en)](https://www.instagram.com/joetancy/?hl=en)
-[![LinkedIn Badge](https://img.shields.io/badge/-Joe%20Tan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joetancy/)](https://www.linkedin.com/in/joetancy/) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joetancy" alt="joetancy" /> </p>
 
----
+- 🌱 I’m currently learning **Amazon Web Services**
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=joetancy&show_icons=true)
+- 📝 I regulary write articles on [https://dev.to/joetancy](https://dev.to/joetancy)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/joetancy/joetancy)
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joetancy&show_icons=true" alt="joetancy" /> </p>
+
+<p align="center">
+<a href="https://dev.to/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joetancy" height="20" width="20" /></a>
+<a href="https://twitter.com/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joetancy" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joetancy" height="20" width="20" /></a>
+<a href="https://fb.com/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="joetancy" height="20" width="20" /></a>
+<a href="https://instagram.com/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joetancy" height="20" width="20" /></a>
+</p>
