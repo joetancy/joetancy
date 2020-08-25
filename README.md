@@ -9,6 +9,9 @@
 
 ## My Dev.to Activity
 <!-- BLOG-POST-LIST:START -->
+- [AWS Cognito with React reCaptcha v2](https://dev.to/joetancy/aws-cognito-with-react-recaptcha-v2-3bn2)
+- [A brief introduction to microservices](https://dev.to/joetancy/a-brief-introduction-to-microservices-1d5n)
+- [PHP-FPM with Apache2](https://dev.to/joetancy/php-fpm-with-apache2-2mk0)
 <!-- BLOG-POST-LIST:END -->
 
 ## My StackOverflow Activity
