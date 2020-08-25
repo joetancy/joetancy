@@ -34,4 +34,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joetancy" alt="joetancy" /> </p>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="1" d="M0,256L48,245.3C96,235,192,213,288,208C384,203,480,213,576,224C672,235,768,245,864,229.3C960,213,1056,171,1152,165.3C1248,160,1344,192,1392,208L1440,224L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
