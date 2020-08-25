@@ -10,9 +10,9 @@
 <a href="https://instagram.com/joetancy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joetancy" height="40" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱  I’m currently learning **Amazon Web Services**
 
-- 📝 I irregularly write articles on [https://dev.to/joetancy](https://dev.to/joetancy)
+- 📝  I irregularly write articles on [https://dev.to/joetancy](https://dev.to/joetancy)
 
 ## My Dev.to Activity
 <!-- BLOG-POST-LIST:START -->
