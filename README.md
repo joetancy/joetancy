@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
 <h1 align="center">Hi 👋, I'm Joe Tan</h1>
 <h3 align="center">I build applications and fix bugs. I learn photography in my free time.</h3>
 
