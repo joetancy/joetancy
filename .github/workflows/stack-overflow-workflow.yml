@@ -1,5 +1,6 @@
 name: Latest stack overflow activity
 on:
+  workflow_dispatch:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
