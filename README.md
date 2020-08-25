@@ -33,6 +33,45 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 1,229 Contributions in the Year 2020
+ > 
+> 📦 93.2 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    305 commits    ████████░░░░░░░░░░░░░░░░░   34.31% 
+🌆 Daytime    530 commits    ███████████████░░░░░░░░░░   59.62% 
+🌃 Evening    54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.07% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
 <!--END_SECTION:waka-->
 
 ![Latest Wakatime](https://github.com/joetancy/joetancy/workflows/Latest%20Wakatime/badge.svg)
