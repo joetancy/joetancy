@@ -20,7 +20,7 @@
 - [A brief introduction to microservices](https://dev.to/joetancy/a-brief-introduction-to-microservices-1d5n)
 - [PHP-FPM with Apache2](https://dev.to/joetancy/php-fpm-with-apache2-2mk0)
 <!-- BLOG-POST-LIST:END -->
-![Latest Dev.to](https://github.com/joetancy/joetancy/workflows/Latest%20blog%20post%20workflow/badge.svg)
+![Latest Dev.to](https://github.com/joetancy/joetancy/workflows/Latest%20Dev.to/badge.svg)
 
 ## My StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
@@ -30,8 +30,10 @@
 - [Answer by Joe Tan for Selenium split webelement text and use to click](https://stackoverflow.com/questions/63153999/selenium-split-webelement-text-and-use-to-click/63154083#63154083)
 - [Answer by Joe Tan for Passing command from python file to shell script (Linux)](https://stackoverflow.com/questions/63153688/passing-command-from-python-file-to-shell-script-linux/63153770#63153770)
 <!-- STACKOVERFLOW:END -->
-![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20stack%20overflow%20activity/badge.svg)
+![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
+
 <hr>
+
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joetancy" alt="joetancy" /> </p>
