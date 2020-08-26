@@ -33,13 +33,13 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,229 Contributions in the Year 2020
+> 🏆 1,235 Contributions in the Year 2020
  > 
-> 📦 93.2 kB Used in Github's Storage 
+> 📦 93.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,9 +50,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    305 commits    ████████░░░░░░░░░░░░░░░░░   34.31% 
-🌆 Daytime    530 commits    ███████████████░░░░░░░░░░   59.62% 
-🌃 Evening    54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.07% 
+🌞 Morning    305 commits    ████████░░░░░░░░░░░░░░░░░   34.15% 
+🌆 Daytime    534 commits    ███████████████░░░░░░░░░░   59.8% 
+🌃 Evening    54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.05% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -64,10 +64,13 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     18 mins             █████████░░░░░░░░░░░░░░░░   38.8% 
+SCSS                     14 mins             ███████░░░░░░░░░░░░░░░░░░   29.65% 
+JavaScript               12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.71% 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.84%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      48 mins             █████████████████████████   100.0%
 
 ```
 
