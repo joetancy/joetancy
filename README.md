@@ -33,7 +33,7 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -50,9 +50,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    308 commits    ████████░░░░░░░░░░░░░░░░░   34.41% 
-🌆 Daytime    533 commits    ███████████████░░░░░░░░░░   59.55% 
-🌃 Evening    54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.03% 
+🌞 Morning    307 commits    ████████░░░░░░░░░░░░░░░░░   34.34% 
+🌆 Daytime    533 commits    ███████████████░░░░░░░░░░   59.62% 
+🌃 Evening    54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.04% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
