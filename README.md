@@ -33,13 +33,13 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 1,397 Contributions in the Year 2020
  > 
-> 📦 93.3 kB Used in Github's Storage 
+> 📦 93.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,14 +64,14 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Java                     2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.95% 
-JavaScript               2 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.66% 
-XML                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91%
+Java                     2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   38.32% 
+JavaScript               2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   31.28% 
+JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.75% 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
+XML                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.94%
 
 💻 Operating System: 
-Mac                      5 hrs 46 mins       █████████████████████████   100.0%
+Mac                      6 hrs 35 mins       █████████████████████████   100.0%
 
 ```
 
