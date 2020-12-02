@@ -33,10 +33,12 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
+> 🏆 1,397 Contributions in the Year 2020
+ > 
 > 📦 93.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
