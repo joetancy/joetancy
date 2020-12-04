@@ -33,7 +33,7 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -64,14 +64,10 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   18 mins             ███████████████████████░░   94.62% 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.51% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32% 
-Fish                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
-Tcsh                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+Other                    15 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.0%
+Mac                      15 mins             █████████████████████████   100.0%
 
 ```
 
