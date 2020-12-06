@@ -33,7 +33,7 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -43,9 +43,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories
+> 📜 15 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+15 Private Repository 
  > 
 **I'm an Early 🐤** 
 
