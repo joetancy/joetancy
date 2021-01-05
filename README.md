@@ -64,10 +64,10 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
