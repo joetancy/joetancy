@@ -37,7 +37,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 2 Contributions in the Year 2021
  > 
 > 📦 93.3 kB Used in Github's Storage 
  > 
@@ -64,10 +64,10 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    28 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      28 mins             █████████████████████████   100.0%
 
 ```
 
