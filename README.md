@@ -37,13 +37,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 140 Contributions in the Year 2021
+> 🏆 141 Contributions in the Year 2021
  > 
 > 📦 97.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -64,16 +64,17 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-YAML                     48 mins             █████████████░░░░░░░░░░░░   54.56% 
-Terraform                40 mins             ███████████░░░░░░░░░░░░░░   45.44%
+YAML                     11 mins             ███████████████████████░░   94.27% 
+Terraform                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.73% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Mac                      1 hr 28 mins        █████████████████████████   100.0%
+Mac                      12 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 17/06/2021
+ Last Updated on 18/06/2021
 <!--END_SECTION:waka-->
 
 ![Latest Wakatime](https://github.com/joetancy/joetancy/workflows/Latest%20Wakatime/badge.svg)
