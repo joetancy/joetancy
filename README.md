@@ -64,18 +64,15 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Terraform                59 mins             ██████████████░░░░░░░░░░░   58.25% 
-Other                    38 mins             █████████░░░░░░░░░░░░░░░░   37.76% 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 42 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 05/08/2021
+ Last Updated on 06/08/2021
 <!--END_SECTION:waka-->
 
 ![Latest Wakatime](https://github.com/joetancy/joetancy/workflows/Latest%20Wakatime/badge.svg)
