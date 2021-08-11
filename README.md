@@ -64,15 +64,19 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     2 hrs 18 mins       █████████████░░░░░░░░░░░░   53.15% 
+Terraform                35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
+Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.71%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 10/08/2021
+ Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
 
 ![Latest Wakatime](https://github.com/joetancy/joetancy/workflows/Latest%20Wakatime/badge.svg)
