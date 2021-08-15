@@ -38,7 +38,7 @@
 
 > 🏆 142 Contributions in the Year 2021
  > 
-> 📦 97.4 kB Used in Github's Storage 
+> 📦 97.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,7 +75,7 @@ Mac                      14 hrs 6 mins       ███████████�
 ```
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
 
 ![Latest Wakatime](https://github.com/joetancy/joetancy/workflows/Latest%20Wakatime/badge.svg)
