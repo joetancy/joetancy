@@ -75,7 +75,7 @@ Mac                      8 hrs 18 mins       ███████████�
 ```
 
 
- Last Updated on 12/09/2021
+ Last Updated on 13/09/2021
 <!--END_SECTION:waka-->
 
 ![Latest Wakatime](https://github.com/joetancy/joetancy/workflows/Latest%20Wakatime/badge.svg)
