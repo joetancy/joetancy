@@ -34,11 +34,11 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 145 Contributions in the Year 2021
  > 
-> 📦 97.9 kB Used in Github's Storage 
+> 📦 97.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,19 +63,16 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   3 hrs 40 mins       ████████████████████░░░░░   82.75% 
-Terraform                24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.22% 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
+Terraform                24 mins             ███████████████████░░░░░░   78.65% 
+Other                    6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.35%
 
 💻 Operating System: 
-Mac                      4 hrs 26 mins       █████████████████████████   100.0%
+Mac                      31 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 
 ![Latest Wakatime](https://github.com/joetancy/joetancy/workflows/Latest%20Wakatime/badge.svg)
