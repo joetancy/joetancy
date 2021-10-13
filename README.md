@@ -75,6 +75,7 @@ Mac                      3 hrs 14 mins       ███████████�
 
  Last Updated on 13/10/2021
 <!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
 ![Latest Wakatime](https://github.com/joetancy/joetancy/workflows/Latest%20Wakatime/badge.svg)
 
