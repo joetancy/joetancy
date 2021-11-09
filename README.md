@@ -27,7 +27,7 @@
 - [Answer by Joe Tan for I want to put data into a new file using shell](https://stackoverflow.com/questions/63154805/i-want-to-put-data-into-a-new-file-using-shell/63154878#63154878)
 - [Answer by Joe Tan for Timestamp YYYY-MM-DDThh:mmTZD python](https://stackoverflow.com/questions/63154080/timestamp-yyyy-mm-ddthhmmtzd-python/63154256#63154256)
 - [Answer by Joe Tan for Selenium split webelement text and use to click](https://stackoverflow.com/questions/63153999/selenium-split-webelement-text-and-use-to-click/63154083#63154083)
-- [Answer by Joe Tan for Passing command from python file to shell script (Linux)](https://stackoverflow.com/questions/63153688/passing-command-from-python-file-to-shell-script-linux/63153770#63153770)
+- [Answer by Joe Tan for Passing command from python file to shell script &lpar;Linux&rpar;](https://stackoverflow.com/questions/63153688/passing-command-from-python-file-to-shell-script-linux/63153770#63153770)
 <!-- STACKOVERFLOW:END -->
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
