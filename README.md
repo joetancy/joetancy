@@ -32,26 +32,28 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2026%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 146 Contributions in the Year 2021
+> 🏆 149 Contributions in the Year 2021
  > 
 > 📦 98.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    105 commits    █████████░░░░░░░░░░░░░░░░   36.59% 
-🌆 Daytime    169 commits    ██████████████░░░░░░░░░░░   58.89% 
-🌃 Evening    13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.53% 
+🌞 Morning    106 commits    ████████░░░░░░░░░░░░░░░░░   34.3% 
+🌆 Daytime    184 commits    ███████████████░░░░░░░░░░   59.55% 
+🌃 Evening    19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -71,7 +73,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/12/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
