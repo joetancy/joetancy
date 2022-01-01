@@ -36,7 +36,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 149 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 98.1 kB Used in GitHub's Storage 
  > 
@@ -71,7 +71,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
