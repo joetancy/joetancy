@@ -32,17 +32,19 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2021%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 13 Contributions in the Year 2022
+> 🏆 14 Contributions in the Year 2022
  > 
-> 📦 99.8 kB Used in GitHub's Storage 
+> 📦 98.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
@@ -75,7 +77,7 @@ Windows                  3 hrs 2 mins        ███████████�
 ```
 
 
- Last Updated on 07/02/2022 00:37:49 UTC
+ Last Updated on 08/02/2022 00:38:33 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
