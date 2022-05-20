@@ -32,7 +32,7 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -65,16 +65,19 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-RobotFramework           13 mins             █████████████████████████   100.0% 
-Terraform                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python                   42 mins             ███████████░░░░░░░░░░░░░░   43.65% 
+TOML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
+YAML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
+RobotFramework           13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.83%
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.0%
+Windows                  1 hr 37 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 19/05/2022 01:07:29 UTC
+ Last Updated on 20/05/2022 01:01:25 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
