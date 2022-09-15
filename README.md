@@ -32,53 +32,24 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 17 Contributions in the Year 2022
+> 🏆 18 Contributions in the Year 2022
  > 
 > 📦 98.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning    42 commits     ███████████░░░░░░░░░░░░░░   45.16% 
-🌆 Daytime    41 commits     ███████████░░░░░░░░░░░░░░   44.09% 
-🌃 Evening    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-JavaScript               5 hrs 34 mins       ██████████████░░░░░░░░░░░   55.59% 
-Bash                     2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.96% 
-Java                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Terraform                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32% 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
-
-💻 Operating System: 
-WSL                      8 hrs 59 mins       ██████████████████████░░░   89.66% 
-Windows                  1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
-
-```
-
-
- Last Updated on 14/09/2022 01:09:51 UTC
+ Last Updated on 15/09/2022 01:19:04 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
