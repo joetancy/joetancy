@@ -32,7 +32,7 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -40,7 +40,7 @@
 
 > 🏆 17 Contributions in the Year 2022
  > 
-> 📦 98.1 kB Used in GitHub's Storage 
+> 📦 98.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,19 +65,20 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.06% 
-JavaScript               4 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   35.91% 
-Terraform                1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.72%
+JavaScript               4 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.26% 
+Python                   2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   26.86% 
+Terraform                1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.28% 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.67%
 
 💻 Operating System: 
-WSL                      13 hrs 3 mins       █████████████████████████   100.0%
+WSL                      10 hrs 5 mins       ███████████████████████░░   95.21% 
+Windows                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.79%
 
 ```
 
 
- Last Updated on 04/10/2022 01:20:30 UTC
+ Last Updated on 05/10/2022 01:18:28 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
