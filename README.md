@@ -65,15 +65,15 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 08/11/2022 01:06:04 UTC
+ Last Updated on 09/11/2022 01:06:59 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
