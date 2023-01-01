@@ -32,13 +32,13 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 17 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 98.2 kB Used in GitHub's Storage 
  > 
@@ -77,7 +77,7 @@ WSL                      4 hrs 58 mins       ███████████�
 ```
 
 
- Last Updated on 31/12/2022 00:50:30 UTC
+ Last Updated on 01/01/2023 00:59:14 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
