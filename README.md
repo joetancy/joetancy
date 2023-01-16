@@ -38,8 +38,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2023
- > 
 > 📦 98.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -78,7 +76,7 @@ Windows                  33 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/01/2023 00:56:45 UTC
+ Last Updated on 16/01/2023 00:58:23 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
