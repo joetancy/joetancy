@@ -32,7 +32,7 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-824%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
@@ -64,18 +64,18 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Bash                     1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.86 % 
-JSON                     1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   30.80 % 
-Python                   1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Terraform                27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+JSON                     38 mins             ████████░░░░░░░░░░░░░░░░░   32.84 % 
+Bash                     32 mins             ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+Other                    22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Terraform                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 
 💻 Operating System: 
-WSL                      5 hrs 32 mins       █████████████████████████   100.00 % 
+WSL                      1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/02/2023 00:50:27 UTC
+ Last Updated on 24/02/2023 00:52:25 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
