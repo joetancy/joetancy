@@ -32,13 +32,13 @@
 ![Latest StackOverflow](https://github.com/joetancy/joetancy/workflows/Latest%20StackOverflow/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-844%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 98.2 kB Used in GitHub's Storage 
+> 📦 98.1 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2023
  > 
@@ -64,19 +64,19 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Terraform                2 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.08 % 
-Docker                   1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   34.33 % 
-JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Terraform                3 hrs 12 mins       ████████████████░░░░░░░░░   64.29 % 
+Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 💻 Operating System: 
-WSL                      3 hrs 59 mins       ███████████████████████░░   92.05 % 
-Windows                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+WSL                      4 hrs 38 mins       ███████████████████████░░   93.08 % 
+Windows                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 ```
 
 
- Last Updated on 15/03/2023 00:51:23 UTC
+ Last Updated on 16/03/2023 00:52:38 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
