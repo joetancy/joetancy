@@ -64,14 +64,18 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     1 hr 44 mins        ███████████████░░░░░░░░░░   59.35 % 
+JSON                     48 mins             ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+Terraform                22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/05/2023 00:51:47 UTC
+ Last Updated on 18/05/2023 00:46:13 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
