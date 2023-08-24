@@ -64,15 +64,14 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-YAML                     9 mins              ██████████████████████░░░   87.06 % 
-Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/08/2023 00:38:56 UTC
+ Last Updated on 24/08/2023 00:38:45 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
