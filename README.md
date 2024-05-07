@@ -10,8 +10,6 @@
 
 > 📦 98.5 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -34,14 +32,16 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Terraform                40 mins             ██████████████████░░░░░░░   73.42 % 
+Bash                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+HCL                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      54 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/05/2024 00:44:36 UTC
+ Last Updated on 07/05/2024 00:43:23 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
