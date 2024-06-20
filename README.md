@@ -2,13 +2,15 @@
 <h3 align="center">I build applications and fix bugs.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C371%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C374%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 98.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,18 +34,18 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   2 hrs 4 mins        █████████████████░░░░░░░░   69.67 % 
-Terraform                31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-TOML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-HCL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Python                   2 hrs 17 mins       ██████████████████░░░░░░░   70.90 % 
+Terraform                31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+TOML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+HCL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 Operating System: 
-WSL                      2 hrs 58 mins       █████████████████████████   100.00 % 
+WSL                      3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/06/2024 00:47:17 UTC
+ Last Updated on 20/06/2024 00:45:37 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
