@@ -2,15 +2,13 @@
 <h3 align="center">I build applications and fix bugs.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C415%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C416%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 98.5 kB Used in GitHub's Storage 
- > 
-> 🏆 10 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,18 +32,18 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   3 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.06 % 
-Text                     2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.74 % 
-JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-CSV                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Python                   3 hrs 55 mins       █████████████░░░░░░░░░░░░   50.19 % 
+Text                     2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
-WSL                      8 hrs 10 mins       █████████████████████████   100.00 % 
+WSL                      7 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/08/2024 00:51:08 UTC
+ Last Updated on 20/08/2024 00:50:13 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
