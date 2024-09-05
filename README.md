@@ -2,7 +2,7 @@
 <h3 align="center">I build applications and fix bugs.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C425%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C425%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.5%20million%20lines%20of%20code-blue)
 
@@ -34,18 +34,16 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 14 mins             ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-Terraform                14 mins             ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-TypeScript               12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-Gherkin                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Docker                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Python                   17 mins             ██████████████░░░░░░░░░░░   54.69 % 
+Terraform                14 mins             ███████████░░░░░░░░░░░░░░   45.22 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-WSL                      51 mins             █████████████████████████   100.00 % 
+WSL                      31 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/09/2024 00:53:05 UTC
+ Last Updated on 05/09/2024 00:53:54 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
