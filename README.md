@@ -2,7 +2,7 @@
 <h3 align="center">I build applications and fix bugs.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C431%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C431%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.5%20million%20lines%20of%20code-blue)
 
@@ -34,16 +34,17 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Text                     26 mins             █████████████░░░░░░░░░░░░   51.29 % 
-Python                   25 mins             ████████████░░░░░░░░░░░░░   48.62 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   58 mins             ██████████████░░░░░░░░░░░   57.96 % 
+Text                     32 mins             ████████░░░░░░░░░░░░░░░░░   32.28 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-WSL                      51 mins             █████████████████████████   100.00 % 
+WSL                      1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/09/2024 00:56:22 UTC
+ Last Updated on 27/09/2024 00:56:02 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
