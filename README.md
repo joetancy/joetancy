@@ -10,8 +10,6 @@
 
 > 📦 98.6 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -46,7 +44,7 @@ Mac                      2 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/11/2024 00:55:56 UTC
+ Last Updated on 03/11/2024 01:01:10 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
