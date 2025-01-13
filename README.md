@@ -10,8 +10,6 @@
 
 > 📦 98.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -45,7 +43,7 @@ Linux                    2 hrs 46 mins       ███████████�
 ```
 
 
- Last Updated on 12/01/2025 01:02:30 UTC
+ Last Updated on 13/01/2025 01:00:52 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
