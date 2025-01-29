@@ -10,6 +10,8 @@
 
 > 📦 98.6 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -32,15 +34,14 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   16 mins             ██████████████████████░░░   86.17 % 
-JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Python                   2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    19 mins             █████████████████████████   100.00 % 
+Linux                    2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/01/2025 00:55:37 UTC
+ Last Updated on 29/01/2025 00:56:15 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
