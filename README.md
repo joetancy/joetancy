@@ -10,7 +10,7 @@
 
 > 📦 98.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 5 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,18 +34,14 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   1 hr 16 mins        ████████████░░░░░░░░░░░░░   47.84 % 
-JavaScript               1 hr 9 mins         ███████████░░░░░░░░░░░░░░   42.92 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/03/2025 00:59:59 UTC
+ Last Updated on 07/03/2025 01:00:06 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
