@@ -2,7 +2,7 @@
 <h3 align="center">I build applications and fix bugs.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C519%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C520%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.6%20million%20lines%20of%20code-blue)
 
@@ -34,18 +34,18 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   3 hrs 7 mins        █████████████████░░░░░░░░   69.32 % 
-Markdown                 1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   3 hrs 24 mins       ██████████████████░░░░░░░   71.12 % 
+Markdown                 1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      4 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/04/2025 01:03:01 UTC
+ Last Updated on 18/04/2025 01:02:24 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
