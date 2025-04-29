@@ -34,14 +34,17 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               28 mins             ████████████░░░░░░░░░░░░░   48.40 % 
+Markdown                 22 mins             █████████░░░░░░░░░░░░░░░░   37.41 % 
+Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      58 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/04/2025 01:05:16 UTC
+ Last Updated on 29/04/2025 01:03:27 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
