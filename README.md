@@ -16,8 +16,30 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 03/01/2026 01:06:41 UTC
+```text
+🌞 Morning                1030 commits        ████████░░░░░░░░░░░░░░░░░   31.12 % 
+🌆 Daytime                2015 commits        ███████████████░░░░░░░░░░   60.88 % 
+🌃 Evening                226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+🌙 Night                  39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 04/01/2026 01:18:13 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
