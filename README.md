@@ -34,17 +34,18 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 23 mins             ███████████████░░░░░░░░░░   61.53 % 
-Python                   8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-TOML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Terraform                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Markdown                 18 mins             ██████████████████████░░░   86.17 % 
+Terraform                2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/04/2026 01:45:35 UTC
+ Last Updated on 03/04/2026 01:47:05 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
