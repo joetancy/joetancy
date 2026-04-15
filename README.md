@@ -34,18 +34,18 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 1 hr 18 mins        ██████████████████░░░░░░░   71.41 % 
-Python                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Markdown                 1 hr 21 mins        █████████████░░░░░░░░░░░░   53.69 % 
+Other                    38 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+Python                   18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 💻 Operating System: 
-Mac                      1 hr 50 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/04/2026 01:55:54 UTC
+ Last Updated on 15/04/2026 01:52:40 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
