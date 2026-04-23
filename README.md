@@ -21,8 +21,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1009 commits        ████████░░░░░░░░░░░░░░░░░   30.68 % 
-🌆 Daytime                2015 commits        ███████████████░░░░░░░░░░   61.26 % 
+🌞 Morning                1009 commits        ████████░░░░░░░░░░░░░░░░░   30.69 % 
+🌆 Daytime                2014 commits        ███████████████░░░░░░░░░░   61.25 % 
 🌃 Evening                226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 🌙 Night                  39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
@@ -34,17 +34,14 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Terraform                7 mins              ██████████████████░░░░░░░   73.65 % 
-YAML                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-HCL                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Terraform                50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/04/2026 01:56:03 UTC
+ Last Updated on 23/04/2026 02:00:37 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
