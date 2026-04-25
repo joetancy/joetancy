@@ -2,7 +2,7 @@
 <h3 align="center">I build applications and fix bugs.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C697%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C697%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.53%20million%20lines%20of%20code-blue?style=flat)
 
@@ -34,17 +34,18 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Terraform                51 mins             ████████████████░░░░░░░░░   63.52 % 
-Docker                   19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-TOML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Terraform                51 mins             ████████░░░░░░░░░░░░░░░░░   30.69 % 
+Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Docker                   27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 
 💻 Operating System: 
-Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/04/2026 02:00:31 UTC
+ Last Updated on 25/04/2026 01:50:31 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
