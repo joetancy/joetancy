@@ -10,7 +10,7 @@
 
 > 📦 98.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 3 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,18 +34,18 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Terraform                51 mins             ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-Markdown                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Python                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Docker                   27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Other                    1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Terraform                51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Markdown                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Python                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+TypeScript               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 
 💻 Operating System: 
-Mac                      2 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/04/2026 02:06:24 UTC
+ Last Updated on 28/04/2026 02:13:51 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
