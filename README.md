@@ -2,8 +2,6 @@
 <h3 align="center">I build applications and fix bugs.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C726%20hrs%2056%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.53%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -18,34 +16,8 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                1009 commits        ████████░░░░░░░░░░░░░░░░░   30.69 % 
-🌆 Daytime                2014 commits        ███████████████░░░░░░░░░░   61.25 % 
-🌃 Evening                226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-🌙 Night                  39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-Markdown                 15 mins             ████████████████░░░░░░░░░   63.11 % 
-Python                   5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-TypeScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Terraform                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-
-💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 02:33:26 UTC
+ Last Updated on 29/05/2026 02:37:05 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
