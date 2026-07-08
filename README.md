@@ -34,18 +34,18 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   31 mins             ████████░░░░░░░░░░░░░░░░░   30.04 % 
-Terraform                28 mins             ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-JSON                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-TypeScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Gherkin                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Terraform                28 mins             ███████████░░░░░░░░░░░░░░   44.58 % 
+JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+TypeScript               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Gherkin                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 💻 Operating System: 
-Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/07/2026 02:28:02 UTC
+ Last Updated on 08/07/2026 02:01:50 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
