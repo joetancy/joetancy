@@ -34,17 +34,16 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   4 mins              ███████████░░░░░░░░░░░░░░   45.63 % 
-Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-Gherkin                  1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Python                   3 mins              ██████████████░░░░░░░░░░░   55.96 % 
+Gherkin                  1 min               ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+JSON                     1 min               █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/07/2026 02:14:36 UTC
+ Last Updated on 10/07/2026 02:14:38 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
