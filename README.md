@@ -34,16 +34,14 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   3 mins              ██████████████░░░░░░░░░░░   55.96 % 
-Gherkin                  1 min               ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-JSON                     1 min               █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/07/2026 02:14:38 UTC
+ Last Updated on 11/07/2026 01:59:45 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
