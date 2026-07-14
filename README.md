@@ -8,13 +8,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 98.8 kB Used in GitHub's Storage 
+> 📦 102.6 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2026
+> 🏆 5 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -34,14 +34,18 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   21 mins             ████████████████░░░░░░░░░   64.35 % 
+Git Config               7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Gherkin                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      33 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 02:05:20 UTC
+ Last Updated on 14/07/2026 01:52:12 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
