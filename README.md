@@ -36,40 +36,40 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   6 hrs 42 mins       ███████████████░░░░░░░░░░   60.55 % 
-Terraform                1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Python                   5 hrs 27 mins       ███████████████████░░░░░░   74.80 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Terraform                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 💻 Operating System: 
-Mac                      11 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 35 mins (86.52%)
+⏱ AI Coding Time: 7 hrs 10 mins (98.23%)
 
-✍️ 1,132 lines written by AI, 119 lines written by hand (90.49% AI-written)
+✍️ 970 lines written by AI, 53 lines written by hand (94.82% AI-written)
 
-🔤 4,016,889 Input Tokens, 308,423 Output Tokens
+🔤 3,148,154 Input Tokens, 239,512 Output Tokens
 
-💵 $25.45 Estimated AI Cost This Week
+💵 $21.32 Estimated AI Cost This Week
 
-🧠 69 AI Sessions, 116 AI Prompts
+🧠 52 AI Sessions, 89 AI Prompts
 
-GPT                      1,306 lines         █████████████████████████   100.00 % 
+GPT                      1,051 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.49% of written lines came from AI
-📄 Detailed Prompter — average 570 characters per prompt
+🤖 AI-Driven — 94.82% of written lines came from AI
+📄 Detailed Prompter — average 557 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 11.22% of changed lines were hand-edited
+🚀 High AI Trust — 7.16% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 00:50:41 UTC
+ Last Updated on 21/08/2026 00:54:54 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
