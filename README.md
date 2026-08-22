@@ -36,40 +36,40 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   5 hrs 27 mins       ███████████████████░░░░░░   74.80 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Terraform                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Python                   2 hrs 1 min         █████████████████░░░░░░░░   67.06 % 
+Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Terraform                12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Mac                      7 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 10 mins (98.23%)
+⏱ AI Coding Time: 2 hrs 59 mins (98.73%)
 
-✍️ 970 lines written by AI, 53 lines written by hand (94.82% AI-written)
+✍️ 501 lines written by AI, 1 lines written by hand (99.8% AI-written)
 
-🔤 3,148,154 Input Tokens, 239,512 Output Tokens
+🔤 1,476,040 Input Tokens, 90,435 Output Tokens
 
-💵 $21.32 Estimated AI Cost This Week
+💵 $6.40 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 89 AI Prompts
+🧠 21 AI Sessions, 38 AI Prompts
 
-GPT                      1,051 lines         █████████████████████████   100.00 % 
+GPT                      512 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.82% of written lines came from AI
-📄 Detailed Prompter — average 557 characters per prompt
+🤖 AI-Driven — 99.8% of written lines came from AI
+📝 Concise Prompter — average 425 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 7.16% of changed lines were hand-edited
+🚀 High AI Trust — 2.48% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/08/2026 00:54:54 UTC
+ Last Updated on 22/08/2026 00:51:03 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
