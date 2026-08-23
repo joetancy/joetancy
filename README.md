@@ -36,40 +36,40 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   2 hrs 1 min         █████████████████░░░░░░░░   67.06 % 
-Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Terraform                12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Other                    19 mins             ████████████░░░░░░░░░░░░░   48.43 % 
+Python                   18 mins             ████████████░░░░░░░░░░░░░   46.08 % 
+Terraform                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+HCL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Mac                      3 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 59 mins (98.73%)
+⏱ AI Coding Time: 39 mins (98.26%)
 
-✍️ 501 lines written by AI, 1 lines written by hand (99.8% AI-written)
+✍️ 118 lines written by AI, 1 lines written by hand (99.16% AI-written)
 
-🔤 1,476,040 Input Tokens, 90,435 Output Tokens
+🔤 737,425 Input Tokens, 26,747 Output Tokens
 
-💵 $6.40 Estimated AI Cost This Week
+💵 $1.20 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 38 AI Prompts
+🧠 7 AI Sessions, 15 AI Prompts
 
-GPT                      512 lines           █████████████████████████   100.00 % 
+GPT                      118 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📝 Concise Prompter — average 425 characters per prompt
+🤖 AI-Driven — 99.16% of written lines came from AI
+📝 Concise Prompter — average 441 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.48% of changed lines were hand-edited
+🚀 High AI Trust — 0.84% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/08/2026 00:51:03 UTC
+ Last Updated on 23/08/2026 00:55:06 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
