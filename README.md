@@ -36,40 +36,40 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   30.71 % 
-Other                    33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-HTML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Terraform                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-CSS                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Other                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+YAML                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+TypeScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Terraform                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+HTML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 
 💻 Operating System: 
-Mac                      3 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 36 mins (73.85%)
+⏱ AI Coding Time: 2 hrs 17 mins (69.93%)
 
-✍️ 1,625 lines written by AI, 21 lines written by hand (98.72% AI-written)
+✍️ 408 lines written by AI, 104 lines written by hand (79.69% AI-written)
 
-🔤 1,754,866 Input Tokens, 164,369 Output Tokens
+🔤 864,659 Input Tokens, 89,596 Output Tokens
 
-💵 $10.96 Estimated AI Cost This Week
+💵 $3.13 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 69 AI Prompts
+🧠 7 AI Sessions, 37 AI Prompts
 
-GPT                      1,658 lines         █████████████████████████   100.00 % 
+GPT                      432 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.72% of written lines came from AI
-📝 Concise Prompter — average 151 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 5.04% of changed lines were hand-edited
+🤖 AI-Driven — 79.69% of written lines came from AI
+📝 Concise Prompter — average 196 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 24.87% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/08/2026 02:46:57 UTC
+ Last Updated on 01/09/2026 02:58:47 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
