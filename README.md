@@ -2,9 +2,9 @@
 <h3 align="center">I build applications and fix bugs.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C717%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C718%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.53%20million%20lines%20of%20code-blue?style=flat)
 
@@ -36,20 +36,20 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-YAML                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-TypeScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Terraform                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-HTML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+YAML                     42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Other                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+TypeScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Terraform                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+HTML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 
 💻 Operating System: 
-Mac                      3 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 17 mins (69.93%)
+⏱ AI Coding Time: 2 hrs 17 mins (70.74%)
 
 ✍️ 408 lines written by AI, 104 lines written by hand (79.69% AI-written)
 
@@ -69,7 +69,7 @@ GPT                      432 lines           ███████████�
 ```
 
 
- Last Updated on 01/09/2026 02:58:47 UTC
+ Last Updated on 02/09/2026 02:19:07 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
