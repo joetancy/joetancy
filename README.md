@@ -2,7 +2,7 @@
 <h3 align="center">I build applications and fix bugs.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C718%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C718%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2054%20mins-blue?style=flat)
 
@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 102.9 kB Used in GitHub's Storage 
+> 📦 103.0 kB Used in GitHub's Storage 
  > 
 > 🏆 8 Contributions in the Year 2026
  > 
@@ -36,40 +36,40 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-YAML                     42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Other                    41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-TypeScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Terraform                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-HTML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Markdown                 1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+YAML                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+HTML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 
 💻 Operating System: 
-Mac                      3 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 17 mins (70.74%)
+⏱ AI Coding Time: 2 hrs 30 mins (53.92%)
 
-✍️ 408 lines written by AI, 104 lines written by hand (79.69% AI-written)
+✍️ 661 lines written by AI, 139 lines written by hand (82.62% AI-written)
 
-🔤 864,659 Input Tokens, 89,596 Output Tokens
+🔤 871,465 Input Tokens, 98,276 Output Tokens
 
-💵 $3.13 Estimated AI Cost This Week
+💵 $3.16 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 37 AI Prompts
+🧠 7 AI Sessions, 43 AI Prompts
 
-GPT                      432 lines           █████████████████████████   100.00 % 
+GPT                      685 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.69% of written lines came from AI
-📝 Concise Prompter — average 196 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 24.87% of changed lines were hand-edited
+🤖 AI-Driven — 82.62% of written lines came from AI
+📝 Concise Prompter — average 189 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 20.81% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 02:19:07 UTC
+ Last Updated on 03/09/2026 02:26:51 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
