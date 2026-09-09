@@ -2,7 +2,7 @@
 <h3 align="center">I build applications and fix bugs.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C720%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C720%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2010%20mins-blue?style=flat)
 
@@ -36,40 +36,40 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 1 hr 13 mins        ███████████████░░░░░░░░░░   61.14 % 
-Python                   29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Markdown                 1 hr 48 mins        ███████████████░░░░░░░░░░   59.53 % 
+Python                   43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 💻 Operating System: 
-Mac                      1 hr 59 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (13.49%)
+⏱ AI Coding Time: 1 hr (33.22%)
 
-✍️ 274 lines written by AI, 51 lines written by hand (84.31% AI-written)
+✍️ 445 lines written by AI, 53 lines written by hand (89.36% AI-written)
 
-🔤 104,765 Input Tokens, 13,844 Output Tokens
+🔤 339,987 Input Tokens, 40,154 Output Tokens
 
-💵 $0.12 Estimated AI Cost This Week
+💵 $0.28 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 8 AI Prompts
+🧠 4 AI Sessions, 15 AI Prompts
 
-GPT                      274 lines           █████████████████████████   100.00 % 
+GPT                      487 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.31% of written lines came from AI
-📝 Concise Prompter — average 132 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 16.21% of changed lines were hand-edited
+🤖 AI-Driven — 89.36% of written lines came from AI
+📝 Concise Prompter — average 460 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 10.48% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/09/2026 02:27:45 UTC
+ Last Updated on 09/09/2026 02:29:22 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
