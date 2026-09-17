@@ -2,17 +2,17 @@
 <h3 align="center">I build applications and fix bugs.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C724%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C727%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2044%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.53%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.54%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 127.5 kB Used in GitHub's Storage 
+> 📦 148.0 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2026
+> 🏆 34 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,10 +23,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1013 commits        ████████░░░░░░░░░░░░░░░░░   30.76 % 
-🌆 Daytime                2014 commits        ███████████████░░░░░░░░░░   61.16 % 
-🌃 Evening                227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-🌙 Night                  39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+🌞 Morning                1051 commits        ████████░░░░░░░░░░░░░░░░░   31.11 % 
+🌆 Daytime                2014 commits        ███████████████░░░░░░░░░░   59.62 % 
+🌃 Evening                274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+🌙 Night                  39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 
 
@@ -36,40 +36,40 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               54 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Markdown                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Python                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-HTML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+JavaScript               3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
+TypeScript               2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Python                   1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 💻 Operating System: 
-Mac                      5 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 39 mins (82.5%)
+⏱ AI Coding Time: 8 hrs 2 mins (76.55%)
 
-✍️ 1,295 lines written by AI, 40 lines written by hand (97.0% AI-written)
+✍️ 1,649 lines written by AI, 74 lines written by hand (95.71% AI-written)
 
-🔤 2,856,726 Input Tokens, 253,730 Output Tokens
+🔤 4,367,103 Input Tokens, 362,668 Output Tokens
 
-💵 $28.80 Estimated AI Cost This Week
+💵 $37.18 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 47 AI Prompts
+🧠 24 AI Sessions, 85 AI Prompts
 
-GPT                      1,539 lines         █████████████████████████   100.00 % 
+GPT                      1,988 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.0% of written lines came from AI
-📚 Verbose Prompter — average 2,979 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.51% of changed lines were hand-edited
+🤖 AI-Driven — 95.71% of written lines came from AI
+📚 Verbose Prompter — average 1,899 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 5.29% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 02:45:11 UTC
+ Last Updated on 17/09/2026 02:48:58 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
