@@ -10,9 +10,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 148.1 kB Used in GitHub's Storage 
+> 📦 148.2 kB Used in GitHub's Storage 
  > 
-> 🏆 46 Contributions in the Year 2026
+> 🏆 67 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,10 +23,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1068 commits        ████████░░░░░░░░░░░░░░░░░   31.37 % 
-🌆 Daytime                2017 commits        ███████████████░░░░░░░░░░   59.24 % 
-🌃 Evening                281 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-🌙 Night                  39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+🌞 Morning                1075 commits        ████████░░░░░░░░░░░░░░░░░   31.27 % 
+🌆 Daytime                2017 commits        ███████████████░░░░░░░░░░   58.67 % 
+🌃 Evening                307 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+🌙 Night                  39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 
 
@@ -36,44 +36,44 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               4 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-TypeScript               4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-Markdown                 2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Python                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Other                    1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+TypeScript               4 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.73 % 
+JavaScript               2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Python                   2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Markdown                 2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Other                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 
 💻 Operating System: 
-Mac                      16 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 55 mins (92.68%)
+⏱ AI Coding Time: 14 hrs 5 mins (91.48%)
 
-✍️ 7,309 lines written by AI, 131 lines written by hand (98.24% AI-written)
+✍️ 5,946 lines written by AI, 87 lines written by hand (98.56% AI-written)
 
-🔤 11,373,732 Input Tokens, 1,028,103 Output Tokens
+🔤 9,930,925 Input Tokens, 773,909 Output Tokens
 
-💵 $1036.80 Estimated AI Cost This Week
+💵 $709.55 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 148 AI Prompts
+🧠 30 AI Sessions, 144 AI Prompts
 
-Spark                    4,608 lines         ██████████████░░░░░░░░░░░   55.17 % 
-GPT                      3,255 lines         ██████████░░░░░░░░░░░░░░░   38.97 % 
-Nemotron                 477 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Qwen                     8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Opencode-Cli             4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Spark                    3,311 lines         ████████████░░░░░░░░░░░░░   47.51 % 
+GPT                      3,161 lines         ███████████░░░░░░░░░░░░░░   45.36 % 
+Nemotron                 477 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Mimo                     12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Qwen                     8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.24% of written lines came from AI
-📄 Detailed Prompter — average 1,244 characters per prompt
+🤖 AI-Driven — 98.56% of written lines came from AI
+📄 Detailed Prompter — average 1,315 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.58% of changed lines were hand-edited
+🚀 High AI Trust — 1.48% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 02:35:21 UTC
+ Last Updated on 25/09/2026 02:52:26 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
