@@ -12,7 +12,7 @@
 
 > 📦 148.8 kB Used in GitHub's Storage 
  > 
-> 🏆 111 Contributions in the Year 2026
+> 🏆 113 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,9 +23,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1085 commits        ████████░░░░░░░░░░░░░░░░░   31.04 % 
-🌆 Daytime                2021 commits        ██████████████░░░░░░░░░░░   57.81 % 
-🌃 Evening                333 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+🌞 Morning                1087 commits        ████████░░░░░░░░░░░░░░░░░   31.07 % 
+🌆 Daytime                2021 commits        ██████████████░░░░░░░░░░░   57.78 % 
+🌃 Evening                333 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 🌙 Night                  57 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 
@@ -36,43 +36,42 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               7 hrs 40 mins       ███████████████░░░░░░░░░░   58.31 % 
-Python                   2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-CSS                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+TypeScript               7 hrs 14 mins       █████████████████░░░░░░░░   68.45 % 
+JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+CSS                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 💻 Operating System: 
-Mac                      13 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 48 mins (89.76%)
+⏱ AI Coding Time: 10 hrs 16 mins (97.23%)
 
-✍️ 2,639 lines written by AI, 20 lines written by hand (99.25% AI-written)
+✍️ 2,632 lines written by AI, 3 lines written by hand (99.89% AI-written)
 
-🔤 4,778,409 Input Tokens, 392,694 Output Tokens
+🔤 4,452,650 Input Tokens, 364,282 Output Tokens
 
-💵 $105.81 Estimated AI Cost This Week
+💵 $103.78 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 135 AI Prompts
+🧠 11 AI Sessions, 110 AI Prompts
 
-GPT                      3,217 lines         █████████████████████████   98.65 % 
-Mimo                     44 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+GPT                      3,216 lines         █████████████████████████   99.01 % 
+Mimo                     32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.25% of written lines came from AI
-📄 Detailed Prompter — average 761 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.18% of changed lines were hand-edited
+🤖 AI-Driven — 99.89% of written lines came from AI
+📄 Detailed Prompter — average 875 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 03:30:04 UTC
+ Last Updated on 02/10/2026 03:30:00 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
