@@ -10,9 +10,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 148.9 kB Used in GitHub's Storage 
+> 📦 149.0 kB Used in GitHub's Storage 
  > 
-> 🏆 123 Contributions in the Year 2026
+> 🏆 124 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,9 +23,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1092 commits        ████████░░░░░░░░░░░░░░░░░   31.13 % 
-🌆 Daytime                2021 commits        ██████████████░░░░░░░░░░░   57.61 % 
-🌃 Evening                338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+🌞 Morning                1093 commits        ████████░░░░░░░░░░░░░░░░░   31.15 % 
+🌆 Daytime                2021 commits        ██████████████░░░░░░░░░░░   57.59 % 
+🌃 Evening                338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 🌙 Night                  57 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 
@@ -36,41 +36,41 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               4 hrs 12 mins       █████████████░░░░░░░░░░░░   53.27 % 
-JSON                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-CSS                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Terraform                28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+TypeScript               3 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.95 % 
+Python                   1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Markdown                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+CSS                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 
 💻 Operating System: 
-Mac                      7 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 54 mins (87.34%)
+⏱ AI Coding Time: 7 hrs 10 mins (83.08%)
 
-✍️ 2,180 lines written by AI, 10 lines written by hand (99.54% AI-written)
+✍️ 2,085 lines written by AI, 16 lines written by hand (99.24% AI-written)
 
-🔤 3,809,395 Input Tokens, 266,084 Output Tokens
+🔤 3,579,241 Input Tokens, 279,315 Output Tokens
 
-💵 $77.46 Estimated AI Cost This Week
+💵 $62.75 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 82 AI Prompts
+🧠 16 AI Sessions, 97 AI Prompts
 
-GPT                      2,675 lines         █████████████████████████   100.00 % 
+GPT                      2,601 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.54% of written lines came from AI
-📄 Detailed Prompter — average 880 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.52% of changed lines were hand-edited
+🤖 AI-Driven — 99.24% of written lines came from AI
+📄 Detailed Prompter — average 774 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.69% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 04:13:14 UTC
+ Last Updated on 07/10/2026 03:40:50 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
