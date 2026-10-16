@@ -36,44 +36,44 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
-Other                    1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Markdown                 1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Terraform                52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-YAML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Python                   2 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
+Other                    1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Terraform                52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 
 💻 Operating System: 
-Mac                      9 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 59 mins (73.65%)
+⏱ AI Coding Time: 5 hrs 29 mins (68.7%)
 
-✍️ 2,088 lines written by AI, 296 lines written by hand (87.58% AI-written)
+✍️ 1,766 lines written by AI, 296 lines written by hand (85.65% AI-written)
 
-🔤 3,520,680 Input Tokens, 468,457 Output Tokens
+🔤 3,017,216 Input Tokens, 405,195 Output Tokens
 
-💵 $81.57 Estimated AI Cost This Week
+💵 $18.78 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 145 AI Prompts
+🧠 26 AI Sessions, 124 AI Prompts
 
-Haiku                    1,684 lines         ████████████████████░░░░░   78.00 % 
-GPT                      414 lines           █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Spark                    54 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Github-Copilot           7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Haiku                    1,684 lines         ███████████████████████░░   93.04 % 
+GPT                      119 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Github-Copilot           7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.58% of written lines came from AI
-📝 Concise Prompter — average 183 characters per prompt
+🤖 AI-Driven — 85.65% of written lines came from AI
+📝 Concise Prompter — average 201 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 20.04% of changed lines were hand-edited
+🚀 High AI Trust — 23.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/10/2026 02:41:27 UTC
+ Last Updated on 16/10/2026 02:37:10 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
