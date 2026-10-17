@@ -2,9 +2,9 @@
 <h3 align="center">I build applications and fix bugs.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C772%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C774%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -36,44 +36,44 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   2 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
-Other                    1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Terraform                52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Python                   4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.64 % 
+Other                    2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Markdown                 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Terraform                36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 💻 Operating System: 
-Mac                      7 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 29 mins (68.7%)
+⏱ AI Coding Time: 7 hrs 28 mins (74.96%)
 
-✍️ 1,766 lines written by AI, 296 lines written by hand (85.65% AI-written)
+✍️ 1,996 lines written by AI, 292 lines written by hand (87.24% AI-written)
 
-🔤 3,017,216 Input Tokens, 405,195 Output Tokens
+🔤 4,584,738 Input Tokens, 545,023 Output Tokens
 
-💵 $18.78 Estimated AI Cost This Week
+💵 $25.21 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 124 AI Prompts
+🧠 28 AI Sessions, 150 AI Prompts
 
-Haiku                    1,684 lines         ███████████████████████░░   93.04 % 
-GPT                      119 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Github-Copilot           7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Haiku                    2,045 lines         █████████████████████████   99.66 % 
+Github-Copilot           7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.65% of written lines came from AI
-📝 Concise Prompter — average 201 characters per prompt
+🤖 AI-Driven — 87.24% of written lines came from AI
+📝 Concise Prompter — average 323 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 23.01% of changed lines were hand-edited
+🚀 High AI Trust — 20.47% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/10/2026 02:37:10 UTC
+ Last Updated on 17/10/2026 02:29:43 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
