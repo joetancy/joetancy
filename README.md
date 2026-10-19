@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 152.2 kB Used in GitHub's Storage 
+> 📦 153.5 kB Used in GitHub's Storage 
  > 
 > 🏆 124 Contributions in the Year 2026
  > 
@@ -36,28 +36,28 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.64 % 
-Other                    2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Markdown                 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Terraform                36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Python                   4 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.68 % 
+Other                    2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Markdown                 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+TypeScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 💻 Operating System: 
-Mac                      9 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 28 mins (74.96%)
+⏱ AI Coding Time: 8 hrs 28 mins (77.11%)
 
 ✍️ 1,996 lines written by AI, 292 lines written by hand (87.24% AI-written)
 
-🔤 4,584,738 Input Tokens, 545,023 Output Tokens
+🔤 4,914,704 Input Tokens, 618,448 Output Tokens
 
-💵 $25.21 Estimated AI Cost This Week
+💵 $29.74 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 150 AI Prompts
+🧠 29 AI Sessions, 165 AI Prompts
 
 Haiku                    2,045 lines         █████████████████████████   99.66 % 
 Github-Copilot           7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
@@ -67,13 +67,13 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 87.24% of written lines came from AI
-📝 Concise Prompter — average 323 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 906 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 20.47% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/10/2026 02:29:52 UTC
+ Last Updated on 19/10/2026 02:44:08 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
