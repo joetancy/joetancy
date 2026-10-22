@@ -36,44 +36,43 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.67 % 
-Other                    1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   30.95 % 
-Markdown                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-TypeScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Terraform                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Python                   1 hr 51 mins        ██████████████░░░░░░░░░░░   55.53 % 
+TypeScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Other                    37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Mac                      6 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 54 mins (94.66%)
+⏱ AI Coding Time: 3 hrs 8 mins (93.9%)
 
-✍️ 1,364 lines written by AI, 28 lines written by hand (97.99% AI-written)
+✍️ 348 lines written by AI, 3 lines written by hand (99.15% AI-written)
 
-🔤 3,697,376 Input Tokens, 498,850 Output Tokens
+🔤 2,070,790 Input Tokens, 220,969 Output Tokens
 
-💵 $21.49 Estimated AI Cost This Week
+💵 $11.22 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 91 AI Prompts
+🧠 5 AI Sessions, 47 AI Prompts
 
-Haiku                    1,377 lines         █████████████████████████   100.00 % 
+Haiku                    361 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.99% of written lines came from AI
-📄 Detailed Prompter — average 1,489 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.34% of changed lines were hand-edited
+🤖 AI-Driven — 99.15% of written lines came from AI
+📚 Verbose Prompter — average 2,661 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 1.1% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/10/2026 02:49:29 UTC
+ Last Updated on 22/10/2026 02:47:43 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
