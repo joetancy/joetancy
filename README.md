@@ -36,43 +36,38 @@
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   1 hr 51 mins        ██████████████░░░░░░░░░░░   55.53 % 
-TypeScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-Other                    37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+TypeScript               42 mins             █████████████████░░░░░░░░   69.24 % 
+Other                    18 mins             ████████░░░░░░░░░░░░░░░░░   30.76 % 
 
 💻 Operating System: 
-Mac                      3 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 8 mins (93.9%)
+⏱ AI Coding Time: 1 hr (98.08%)
 
-✍️ 348 lines written by AI, 3 lines written by hand (99.15% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,070,790 Input Tokens, 220,969 Output Tokens
+🔤 329,966 Input Tokens, 73,425 Output Tokens
 
-💵 $11.22 Estimated AI Cost This Week
+💵 $4.53 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 47 AI Prompts
+🧠 1 AI Sessions, 15 AI Prompts
 
-Haiku                    361 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.15% of written lines came from AI
-📚 Verbose Prompter — average 2,661 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 1.1% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 6,732 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/10/2026 02:52:31 UTC
+ Last Updated on 24/10/2026 02:49:15 UTC
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/e0e3a0f0-6d69-4241-946d-0baaf7b91278.svg)](https://wakatime.com/@e0e3a0f0-6d69-4241-946d-0baaf7b91278)
 
